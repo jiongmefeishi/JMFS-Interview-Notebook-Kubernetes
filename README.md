@@ -42,7 +42,7 @@
 
 面试官：“Pod 的体面终止限期是默认值是多少？”  **|** [【参考】](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0NDE4NQ==&mid=2247484143&idx=1&sn=5e764d67105c34bbaa4c851482dbe5cc&chksm=cf31eb39f846622f8c0aa21afd5d33d3928073de71058d59f974c5498bf84da2681cf76582a8#rd)
 
-面试官：“超出终止宽限期限时，kubelet 会触发强制关闭过程，这个过程是怎么样的？”  **|** [【参考】](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0NDE4NQ==&mid=2247484143&idx=1&sn=5e764d67105c34bbaa4c851482dbe5cc&chksm=cf31eb39f846622f8c0aa21afd5d33d3928073de71058d59f974c5498bf84da2681cf76582a8#rd)
+<img src="https://img-blog.csdnimg.cn/65fd67abf3c241b1b51026b7cca8c2b2.png" alt="interviewer" width="38px" />面试官：“超出终止宽限期限时，kubelet 会触发强制关闭过程，这个过程是怎么样的？”  **|** [【参考】](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0NDE4NQ==&mid=2247484143&idx=1&sn=5e764d67105c34bbaa4c851482dbe5cc&chksm=cf31eb39f846622f8c0aa21afd5d33d3928073de71058d59f974c5498bf84da2681cf76582a8#rd)
 
 <img src="https://img-blog.csdnimg.cn/65fd67abf3c241b1b51026b7cca8c2b2.png" alt="interviewer" style="zoom:25%;" />面试官：“强制删除 StatefulSet 的 Pod，会出现什么问题？”  **|** [【参考】](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0NDE4NQ==&mid=2247484143&idx=1&sn=5e764d67105c34bbaa4c851482dbe5cc&chksm=cf31eb39f846622f8c0aa21afd5d33d3928073de71058d59f974c5498bf84da2681cf76582a8#rd)
 
