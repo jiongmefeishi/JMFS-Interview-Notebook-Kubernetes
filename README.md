@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><font color=#ff9900 size=5>30道Kubernetes面试题</font></h1>
+<h1 align="center"><font color=#ff9900 size=5>30道Kubernetes高频面试题</font></h1>
 <p align="center">
 <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg3NjU0NDE4NQ==&action=getalbum&album_id=2218140423993212933#wechat_redirect">
 <img src="https://img.shields.io/badge/公众号-囧么肥事-green.svg" alt="公众号"></a>
