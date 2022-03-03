@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><font color=#ff9900 size=5>100道Kubernetes面试题</font></h1>
+<h1 align="center"><font color=#ff9900 size=5>30道Kubernetes面试题</font></h1>
 <p align="center">
 <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg3NjU0NDE4NQ==&action=getalbum&album_id=2218140423993212933#wechat_redirect">
 <img src="https://img.shields.io/badge/公众号-囧么肥事-green.svg" alt="公众号"></a>
@@ -12,6 +12,8 @@
 <img src="https://img.shields.io/badge/Kubernetes 经典面试对白案例-囧么肥事-lightgrey.svg" alt="Kubernetes"></a>
 <a href="https://mmbiz.qpic.cn/mmbiz_png/2GfhQ2H7oTH4MWyq9zq3JibfFP3VKDn6EewpW7fmTMuKbK08XzpZrdVS2JYu3an0ynicFcAMt0TAmnJMN4w3IpRQ/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1">
 <img src="https://img.shields.io/badge/关注我-囧么肥事-orange.svg" alt="关注我"></a>
+
+<p align="center">
 
 
 面试官：“简单说说为什么需要 Kubernetes？它能做什么? 云原生新时代k8s凭什么在容器化方面独树一帜？”  **|** [【参考】](https://mp.weixin.qq.com/s?__biz=Mzg3NjU0NDE4NQ==&mid=2247484066&idx=1&sn=441fcae466eb5b5fba2fa29f007d7c07&chksm=cf31eb74f8466262ccc258fe1d21fbd8d65e73221c211b704d216d5116a15ffcc4f4cacf5b31#rd)
